@@ -1,0 +1,1 @@
+Full Stack Application.Technologies used:The MERN-STACK
