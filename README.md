@@ -1,6 +1,18 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ## DETAILS
+  ## A.)REGISTRATION:
+  .Client- side validation(Material-UI).\
+  .Bcrypt.\
+  .MongoDB.\
+
+![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
+
+## B.)LOGIN:
+.Bcryptjs/JWT
+
+![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
 
 ## Available Scripts
 
