@@ -71,8 +71,8 @@ else if(user){
    {
  
     const payload = {
-      id:user.id,
-      email:user.email
+      id:req.user.id,
+      email:req.user.email
 
     }
 
@@ -80,7 +80,7 @@ else if(user){
          
 
       
-    res.json({success:true, token:'Bearer'+ token})
+    res.json({success:true, token:"Bearer" + token})
 
   })
 

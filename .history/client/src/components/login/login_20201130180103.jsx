@@ -24,7 +24,7 @@ handleChange = (e) =>{
 
     const payload = {
      
-      email: this.state.email,
+      email:this.state.email,
       password:this.state.password
     }
 
@@ -63,14 +63,13 @@ handleChange = (e) =>{
           <form className="form" onSubmit = {this.submit} >
             <div className="form-group">
               <label htmlFor="email">email</label>
-              <input type="text" name="email" value = {this.state.email}
+              <input type="text" name="
+              email" value = {this.state.email}
                onChange={this.handleChange} placeholder="email" />
             </div>
             <div className="form-group">
               <label htmlFor="password">Password</label>
-              <input type="password" name="password"
-              placeholder="password" autoComplete="true" 
-              value= {this.state.password} onChange={this.handleChange} />
+              <input type="password" name="password"placeholder="password" autoComplete="true" value= {this.state.password} onChange={this.handleChange} />
             </div>
          
              <button className="btn">Login</button> 
