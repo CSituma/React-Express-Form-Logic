@@ -1,0 +1,22 @@
+
+const express = require('express')
+const router = express.Router();
+const Form = require ('../../Models/form')
+
+
+//@POST
+//PRIVATE
+//api/login"
+router.post('/form', (req, res) => {
+  console.log(req.body);
+  
+  const data = req.body;
+  const newForm = new Form(data);
+
+newForm.save()
+.then(()=> res.json({msg: "Details received"}))
+.catch((err=> {console.log(err)}))
+  
+})
+
+module.exports = router;
