@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ![clararegistrationform](https://github.com/CSituma/React-Express-Form/blob/master/client/src/ezgif.com-gif-maker%20(5).gif)
 
    
-  ### *Client-side validation(Material-UI)
+  ### *Client-side validation(Material-UI)*
   ### *Axios/Proxy From React to server-side
   ### *Bcrypt.
   ### *MongoDB.
