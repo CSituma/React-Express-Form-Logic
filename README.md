@@ -3,18 +3,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
   ## DETAILS
   ## A.)REGISTRATION:
-   ![claragithub](https://github.com/CSituma/React-Express-Form/blob/master/client/src/ezgif.com-gif-maker%20(4).gif)
+  ![clararegistrationform](https://github.com/CSituma/React-Express-Form/blob/master/client/src/ezgif.com-gif-maker%20(5).gif)
+
    
-  # *Client-side validation(Material-UI)
-  # *Axios/Proxy From React to server-side
-  # *Bcrypt.
-  # *MongoDB.
+  ### *Client-side validation(Material-UI)
+  ### *Axios/Proxy From React to server-side
+  ### *Bcrypt.
+  ### *MongoDB.
 
 
 ## B.)LOGIN:
-![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
- # *Axios/Proxy From React to server-side
- # * Bcryptjs/JWT
+   ![claraloginform](https://github.com/CSituma/React-Express-Form/blob/master/client/src/ezgif.com-gif-maker%20(4).gif)
+ ### *Axios/Proxy From React to server-side
+ ### * Bcryptjs/JWT
 
 
 
