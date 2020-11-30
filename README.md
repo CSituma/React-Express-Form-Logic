@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## B.)LOGIN:
    ![claraloginform](https://github.com/CSituma/React-Express-Form/blob/master/client/src/ezgif.com-gif-maker%20(4).gif)
  ### *Axios/Proxy From React to server-side*
- ### * Bcryptjs/JWT*
+ ### *Bcryptjs/JWT*
 
 
 
